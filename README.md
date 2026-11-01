@@ -18,3 +18,5 @@ Search and update student records.
 Student photo upload.
 
 MongoDB database integration.
+
+By - Krushna Burghate
